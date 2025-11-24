@@ -266,18 +266,6 @@ Think of us as the **"Google Maps meets Weather Forecast"** for EV charging—bu
 4. **Open Integration**: Works with all charging networks, all EV brands
 5. **Community-Driven**: Learning from thousands of user patterns daily
 
-### 💬 What Users Say
-
-> *"COOKEYS saved me from a 90-minute wait. The prediction was spot-on!"*  
-> — Rajesh K., Tesla Model 3 Owner, Chennai
-
-> *"As a station operator, COOKEYS helped us increase utilization by 35% in just 2 months."*  
-> — Priya M., Charging Station Manager, Velachery
-
-> *"Game-changer for long drives. No more range anxiety!"*  
-> — Arun S., Tata Nexon EV Owner, Coimbatore
-
----
 
 ## 👥 Team COOKEYS
 
@@ -289,10 +277,10 @@ Think of us as the **"Google Maps meets Weather Forecast"** for EV charging—bu
 
 | Role | Name | Year | Contact |
 |------|------|------|---------|
-| 👩‍💻 **Team Leader & AI Architect** | Aleena Fathima S<br/>B.Tech CSE Core | 1st Year | 📧 aleenasuhail100@gmail.com<br/>📱 +91 8428979570 |
+| 👩‍💻 **Team Leader & Frontend Developer** | Aleena Fathima S<br/>B.Tech CSE Core | 1st Year | 📧 aleenasuhail100@gmail.com<br/>📱 +91 8428979570 |
 | 🎨 **Frontend Developer** | P. Shiva Duttan<br/>B.Tech CSE Core | 1st Year | 📧 spokesmansmun@gmail.com<br/>📱 +91 8124381925 |
 | ⚙️ **Backend Developer** | Vishruth Narayanan<br/>B.Tech CSE Core | 1st Year | 📧 narayananvishruth@gmail.com<br/>📱 +91 9840135934 |
-| 📊 **Data Scientist** | Nandini H Menon<br/>B.Tech CSE Core | 1st Year | 📧 nandinihmemon2007@gmail.com<br/>📱 +91 8943713064 |
+| 📊 **Backend Developer** | Nandini H Menon<br/>B.Tech CSE Core | 1st Year | 📧 nandinihmenon2007@gmail.com<br/>📱 +91 8943713064 |
 
 **Institution**: SRM Institute of Science and Technology, Ramapuram Campus
 
@@ -335,15 +323,13 @@ We're looking for:
 
 ---
 
-## 📄 License & Credits
+## 📄 Sources & Credits
 
 This project is built with passion for India's sustainable future.
 
 **Powered by:**
 - 🧠 AI/ML: TensorFlow, Scikit-learn
 - 🗺️ Maps: Google Maps API
-- ☁️ Weather: OpenWeatherMap API
-
 ---
 
 <div align="center">
